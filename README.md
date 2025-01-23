@@ -1,9 +1,6 @@
 # TerrainViz-GEE
 Project Overview A comprehensive Google Earth Engine implementation for advanced terrain analysis and visualization of Sudan's topography. This project provides a robust set of tools for generating high-quality Digital Elevation Models (DEM), hillshade analysis, and contour mapping across Sudan's diverse landscape.
 
-![](https://imgur.com/h4NlXHp.gif)
-
-
 # Key Features
 + Terrain Analysis Capabilities
 + Digital Elevation Model (DEM) generation using SRTM data
@@ -75,3 +72,6 @@ Project Overview A comprehensive Google Earth Engine implementation for advanced
 + Custom analysis modules
 
 This tool represents a significant step forward in making Sudan's topographic data more accessible and analyzable for various applications and user groups.
+
+_**# Visulization**_
+![](https://imgur.com/h4NlXHp.gif)
